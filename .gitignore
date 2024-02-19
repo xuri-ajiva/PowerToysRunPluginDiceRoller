@@ -1,0 +1,7 @@
+.vs
+.idea
+**/bin
+**/obj
+**/*.Designer.cs
+**/*.user
+DiceRoller/Lib/**

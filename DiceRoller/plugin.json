@@ -1,0 +1,14 @@
+{
+  "ID": "FFD61893BFF2430CBA94E1AC007CF2E7",
+  "ActionKeyword": "/r",
+  "Disabled": false,
+  "IsGlobal": false,
+  "Name": "DiceRoller",
+  "Author": "Xuri Ajiva",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "",
+  "ExecuteFileName": "DiceRoller.dll",
+  "IcoPathDark": "Images\\Dice.dark.png",
+  "IcoPathLight": "Images\\Dice.light.png"
+}
